@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Météo</string>
+
+    <string name="hello_blank_fragment">Today Demo Weather</string>
+</resources>
