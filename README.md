@@ -1,4 +1,4 @@
-# meteo_app
+# Application Météo
 
 Application météo créée pour le TP de Programmation Embarquée en Mai 2020.
 
