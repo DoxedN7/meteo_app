@@ -6,7 +6,7 @@ Cette application nécessite :
   - L'accès à la position de l'appareil
   - Un accès internet
   
-Cette application utilise l'API OpenWeatherMap, Current Weather Data.
+Cette application utilise l'API Current Weather Data d'OpenWeatherMap.
 
 Vous retrouverez en page d'accueil :
 - Le nom de votre ville
@@ -20,3 +20,10 @@ Vous retrouverez en page d'accueil :
 - La pression
 - L'heure où le soleil se lève
 - L'heure où le soleil se couche
+
+TODO-LIST :
+- Recherche de ville
+- Prévisions météorologiques sur plusieurs jours
+- Ajout d'informations :
+   - Type de précipitations (pluie, neige)
+   - Direction du vent
