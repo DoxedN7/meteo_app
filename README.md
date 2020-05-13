@@ -29,6 +29,6 @@ TODO-LIST :
 - Possibilité de mettre en favori des villes dans l'onglet "recherche"
 - Prévisions météorologiques sur plusieurs jours
 - Ajout d'informations :
- - Type de précipitations (pluie, neige)
- - Direction du vent
- - Heure de la dernière mise à jour des informations
+  - Type de précipitations (pluie, neige)
+  - Direction du vent
+  - Heure de la dernière mise à jour des informations
